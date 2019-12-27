@@ -76,14 +76,7 @@ public class StudentServices {
 			      
 			      // Calling private method to calculate maximum marks for student
 				  System.out.println(" "+student.getName()+"     : "+getMaxMrks(student));
-				  
-				  //Adding name , total marks and average to studentDetails to be used for calculation
-			/*
-			 * studentWitMarks.setName(student.getName());
-			 * studentWitMarks.setTotal(getStudentTotal(student));
-			 * studentWitMarks.setAverage(getStudentPrecentage(student));
-			 * studentWitMarksL.add(studentWitMarks);
-			 */  
+			
 		  }
 	}
 	
